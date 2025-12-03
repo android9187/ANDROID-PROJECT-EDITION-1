@@ -1,3 +1,0 @@
-python==3.6
-requests==2.31.0
-jupyter==1.0.0  # если нужен Jupyter
